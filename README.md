@@ -34,6 +34,7 @@ Learning Technologies like: <br>
 Learning Programming Languages like: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarVenturaP&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black) -->
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarVenturaP&theme=blue-green)
+<!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarVenturaP&theme=blue-green) -->
