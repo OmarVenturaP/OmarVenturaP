@@ -3,38 +3,93 @@
    👋  I'm Omar Ventura 👋 </h1>
   
 </div>
-
 <div align="center">
-  <h3>
-🔭 Systems Analyst <br>
-📡 Telecommunications Technician <br>
+  
+### About me
+</div>
+  
+``` javascript
+const omarVentura {
+  pronouns: ['He', 'Him'],
+  name: 'Omar',
+  lastName: 'Ventura',
+  title: 'FullStack Developer Jr (NodeJs)', 'Telecomunications Technician', 'System Analyst'],
+  hardSkills: {
+    frontend: ['UX/UI', 'HTML5', 'CSS3', 'Javascript', 'VueJs'],
+    backend: ['NodeJs', 'ExpressJs', 'CORS', 'Prisma', 'PostgreSQL'],
+    },
+  softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions', 'Public Speaking', 'Creativity'],
+  goals: 'Expand my skills and knowledge, while achieving specific interpersonal and work objectives.'
+  }
 
-💻 Full-Stack Developer in progress..!!
-  </h3>
-  </div>
+```
+<hr>
+<div align="center">
 
+## Learning to develop technologies like:
+### Frontend:
+<table>
+  <tr align="center">
+    <td width="100px"><strong>HTML 5</strong></td>
+    <td width="100px"><strong>CSS 3</strong></td>
+    <td width="100px"><strong>Javascript</strong></td>
+    <td width="100px"><strong>Vue</strong></td>
+  </tr>
+  <tr align="center" height="60px">
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
+    <td><img height="32px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></td>
+  </tr>
+</table>
 
+### Backend:
+<table>
+  <tr align="center">
+    <td width="100px"><strong>Node.JS</strong></td>
+    <td width="100px"><strong>Express Js</strong></td>
+    <td width="100px"><strong>Prisma</strong></td>
+    <td width="100px"><strong>PostgreSQL</strong></td>
+  </tr>
+  <tr align="center" height="60px">
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
+    <td><img height="25px"  style="color:white" src="https://expressjs.com/images/express-facebook-share.png"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></td>
+  </tr>
+</table>
 
-Social Media: <br>
-[![Linkedin: RafaelVilches](https://img.shields.io/badge/-OmarVentura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/omar-ventura-5b784b216/)
+### Additionals tools:
+<table>
+  <tr align="center">
+    <td width="100px"><strong>Figma</strong></td>
+    <td width="100px"><strong>Trello</strong></td>
+    <td width="100px"><strong>Visual Studio</strong></td>
+    <td width="100px"><strong>Git</strong></td>
+    <td width="100px"><strong>GitHub</strong></td>
+    <td width="100px"><strong>npm</strong></td>
+    <td width="100px"><strong>ESLint</strong></td>
+  </tr>
+  <tr align="center" height="60px">
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
+    <td><img height="40px" src="http://www.omnilayer.org/images/github-iconOutline.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></td>
+    <td><img height="40px" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg"></td>    
+  </tr>
+</table>
+  
+</div>
+<hr>
+<div align="center">
+  
+### LinkedIn:
+<a href="https://www.linkedin.com/in/omar-ventura-5b784b216"><img height="40px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a>
 
-Used OS: <br>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-Learning Technologies like: <br>
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=black)
-
-
-Learning Programming Languages like: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
+### Activity on GitHub:
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarVenturaP&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black) -->
-
-<!-- ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarVenturaP&theme=blue-green) -->
+  
+</div>
