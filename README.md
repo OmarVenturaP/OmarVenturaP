@@ -20,7 +20,9 @@ const omarVentura {
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions', 'Public Speaking', 'Creativity'],
   goals: 'Expand my skills and knowledge, while achieving specific interpersonal and work objectives.'
-  }
+  };
+  
+  console.log(omarVentura);
 
 ```
 <hr>
