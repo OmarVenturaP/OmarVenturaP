@@ -13,7 +13,7 @@ const omarVentura {
   pronouns: ['He', 'Him'],
   name: 'Omar',
   lastName: 'Ventura',
-  title: 'FullStack Developer Jr (NodeJs)', 'Telecomunications Technician', 'System Analyst'],
+  title: ['FullStack Developer Jr (NodeJs)', 'Telecomunications Technician', 'System Analyst'],
   hardSkills: {
     frontend: ['UX/UI', 'HTML5', 'CSS3', 'Javascript', 'VueJs'],
     backend: ['NodeJs', 'ExpressJs', 'CORS', 'Prisma', 'PostgreSQL'],
