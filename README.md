@@ -89,7 +89,7 @@ const omarVentura {
 <a href="https://www.linkedin.com/in/omar-ventura-5b784b216"><img height="40px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a>
 
 ### Activity on GitHub:
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmarVenturaP&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=OmarVenturaP&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=OmarVenturaP&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   
 </div>
