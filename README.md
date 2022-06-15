@@ -1,5 +1,5 @@
 
-[![Omar Ventura, Software Developer | Telecomunications Technician | System Analyst](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Software%20Developer%20%7C%20Telecomunications%20Technician%20%7C%20System%20Analyst&title=Omar%20Ventura)](https://pimp-my-readme.webapp.io)
+[![Omar Ventura, Software Developer Jr | Telecomunications Technician | System Analyst](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Software%20Developer%20%7C%20Telecomunications%20Technician%20%7C%20System%20Analyst&title=Omar%20Ventura)](https://pimp-my-readme.webapp.io)
 
 <div align="center">
   
